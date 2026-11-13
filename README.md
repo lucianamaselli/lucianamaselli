@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @lucianamaselli
-- 👀 I’m interested in AI, AI for decision making, AI ethics, AI safety and AI for good.
-- 🌱 I’m currently learning how to create AI for decision making in public sector and international organizations.
-- 💞️ I’m looking to collaborate on AI ethics and safety; transparency and examplainability/
-- 📫 How to reach me: lucianamasellif.a@gmail.com
+# Hi, I’m Luciana Maselli
 
-<!---
-lucianamaselli/lucianamaselli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m an applied researcher studying inequality, public policy, and the use of AI in public institutions. I build reproducible workflows for field experiments, historical data, and text analysis.
+
+## What I work on
+
+- **Work and inequality.** I support a field experiment on access to gig work and exposure to inequality, working on survey design, data quality, and workflows for analyzing qualitative responses.
+- **Historical demography.** I turn historical Italian census tables into structured datasets and use text analysis to study how U.S. newspapers discussed fertility and population control.
+- **Responsible AI in public institutions.** I work on AI governance, tool evaluation, and training for public-sector teams and international organizations.
+
+I work with **R, Python, and Stata** and am open to collaborations in applied social science, public policy, and responsible AI.
+
+[Get in touch](mailto:lucianamasellif.a@gmail.com)
